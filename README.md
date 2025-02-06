@@ -9,6 +9,7 @@ I'm a member of Computer Security Incident Response Team with a passion for tech
 
 ## 📚 Education
 - BTL1 Certification: [verified here](https://www.credly.com/badges/f1e6c3fc-0e79-4f62-9c6a-56b97afad9ef)
+- RTO in progress
 
 ## 🌱 Skills
 

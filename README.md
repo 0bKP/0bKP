@@ -14,7 +14,8 @@ I'm a member of Computer Security Incident Response Team with a passion for tech
 
 ## 🌱 Skills
 
-- **Languages:** Python, Bash, C++, HTML, CSS
+- **Languages:** Python, Bash, C++
+- **Web dev:** Wordpress, HTML, CSS
 - **Operating Systems:** Linux, Kali Linux
 - **Networking:** Security, Protocols, Configuration
 - **Version Control:** Git

@@ -6,7 +6,7 @@ I'm a member of Computer Security Incident Response Team with a passion for tech
 
 - I'm constantly working on personal projects that challenge and expand my skills.
 - You can also find repositories related to my university coursework here.
-- Admin to the [latenightlogin.com](latenightlogin.com) project
+- Admin to the [latenightlogin.com](https://latenightlogin.com) project
 
 ## 📚 Education
 - BTL1 Certification: [verified here](https://www.credly.com/badges/f1e6c3fc-0e79-4f62-9c6a-56b97afad9ef)

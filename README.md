@@ -12,6 +12,7 @@ I'm a member of Computer Security Incident Response Team with a passion for tech
 - BTL1 Certification: [verified here](https://www.credly.com/badges/f1e6c3fc-0e79-4f62-9c6a-56b97afad9ef)
 - SAL1 Certification: [verified here](https://www.credly.com/badges/2f1b67bb-0fb7-4a53-9c84-dd64abc2ec0b/public_url)
 - RTO in progress
+- CompTIA Security+ Prep Course done, examination in progress
 
 ## 🌱 Skills
 

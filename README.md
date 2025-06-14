@@ -13,6 +13,7 @@ I'm a member of Computer Security Incident Response Team with a passion for tech
 - SAL1 Certification: [verified here](https://www.credly.com/badges/2f1b67bb-0fb7-4a53-9c84-dd64abc2ec0b/public_url)
 - RTO in progress
 - CompTIA Security+ Prep Course done, examination in progress
+- CompTIA SecurityX Prep Course done, examination in progress
 
 ## 🌱 Skills
 

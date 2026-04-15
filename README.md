@@ -2,11 +2,11 @@
 
 Experienced cybersecurity professional with a background in high-stakes operations. Transitioned from monitoring national security threats as an L2 SOC Analyst at a National CSIRT/SOC to building advanced detection logic as a Detection Engineer. I am a graduate of Cracow University of Technology. My technical foundation includes Linux administration and Python programming, complemented by experience in Bash scripting, C++, and web technologies (HTML/CSS).
 
-## 🔭 Current Projects
+## 🔭 Projects
 
 - I'm constantly working on personal projects that challenge and expand my skills.
 - You can also find repositories related to my university coursework here.
-- Former Admin & Author of latenightlogin.com: A self-hosted cybersecurity blog. Managed the full lifecycle of the site, from custom UI design to content creation and security hardening. Now preserved as a high-performance static archive [here](https://0bkp.github.io/blog/).
+- Former Admin & Author of **latenightlogin.com**: A custom-built cybersecurity blog. Managed the full lifecycle of the site, from original UI design to content creation and security hardening. Now migrated to a static archive for long-term persistence: [here](https://0bkp.github.io/blog/).
 
 ## 📚 Education and certifications
 - BTL1 Certification: [verified here](https://www.credly.com/badges/f1e6c3fc-0e79-4f62-9c6a-56b97afad9ef)

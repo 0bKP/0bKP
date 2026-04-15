@@ -6,7 +6,7 @@ Experienced cybersecurity professional with a background in high-stakes operatio
 
 - I'm constantly working on personal projects that challenge and expand my skills.
 - You can also find repositories related to my university coursework here.
-- Admin of the custom-themed, cybersecurity-related blog: [latenightlogin.com](https://latenightlogin.com) 
+- Former Admin & Author of latenightlogin.com: A self-hosted cybersecurity blog. Managed the full lifecycle of the site, from custom UI design to content creation and security hardening.
 
 ## 📚 Education and certifications
 - BTL1 Certification: [verified here](https://www.credly.com/badges/f1e6c3fc-0e79-4f62-9c6a-56b97afad9ef)

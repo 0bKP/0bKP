@@ -1,6 +1,6 @@
 # Hello, I'm Kacper 👋
 
-I'm a member of Computer Security Incident Response Team with a passion for technology and coding. I'm a graduate of Cracow University of Technology and have skills in Linux administration and Python programming. I also have experience in bash scripting, C++, HTML, and CSS.
+Experienced cybersecurity professional with a background in high-stakes operations. Transitioned from monitoring national security threats as an L2 SOC Analyst at a National CSIRT/SOC to building advanced detection logic as a Detection Engineer. I am a graduate of Cracow University of Technology. My technical foundation includes Linux administration and Python programming, complemented by experience in Bash scripting, C++, and web technologies (HTML/CSS).
 
 ## 🔭 Current Projects
 
@@ -8,12 +8,13 @@ I'm a member of Computer Security Incident Response Team with a passion for tech
 - You can also find repositories related to my university coursework here.
 - Admin of the custom-themed, cybersecurity-related blog: [latenightlogin.com](https://latenightlogin.com) 
 
-## 📚 Education
+## 📚 Education and certifications
 - BTL1 Certification: [verified here](https://www.credly.com/badges/f1e6c3fc-0e79-4f62-9c6a-56b97afad9ef)
 - SAL1 Certification: [verified here](https://www.credly.com/badges/2f1b67bb-0fb7-4a53-9c84-dd64abc2ec0b/public_url)
-- RTO in progress
-- CompTIA Security+ Prep Course done, examination in progress
-- CompTIA SecurityX Prep Course done, examination in progress
+- **CompTIA Security+** certified
+- **SpecterOps:** Adversary Tactics: Detection (Completed)
+- CompTIA SecurityX & Pentest+ – Exam Candidate
+- RTO (Red Team Ops) in progress
 
 ## 🌱 Skills
 

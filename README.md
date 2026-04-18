@@ -12,7 +12,7 @@ Experienced cybersecurity professional with a background in high-stakes operatio
 - BTL1 Certification: [verified here](https://www.credly.com/badges/f1e6c3fc-0e79-4f62-9c6a-56b97afad9ef)
 - SAL1 Certification: [verified here](https://www.credly.com/badges/2f1b67bb-0fb7-4a53-9c84-dd64abc2ec0b/public_url)
 - **CompTIA Security+** certified
-- **SpecterOps:** Adversary Tactics: Detection (Completed)
+- **SpecterOps:** Adversary Tactics: Detection (Completed) [badge](https://www.credly.com/badges/d40797a6-8059-4ac1-8f88-383298f8ef0d/public_url)
 - CompTIA SecurityX & Pentest+ – Exam Candidate
 - RTO (Red Team Ops) in progress
 
